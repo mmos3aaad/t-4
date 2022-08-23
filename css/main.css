@@ -1,0 +1,83 @@
+body {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: ghostwhite;
+}
+.navbar {
+    background-color: darkgoldenrod;
+    margin-bottom: 40px; height: 80px;
+}
+
+.navbar-brand {
+    font-size: 30px; font-weight: bold;
+}
+.btn {
+    background-color: white; color: black;
+}
+.btn:hover {
+    opacity: .7;
+}
+.notifbtn {
+    color: black; background-color: white; border: 1px solid white; border-radius: 50%;
+}
+
+.h22 {
+    font-size: 22px;
+    display: inline; margin-right: 280px;  margin-left: 10px;
+    padding: 10px; 
+}
+.asiide {
+    float: left; width: 20%; margin-left: 10px;
+}
+.catergory{
+    border: 2px solid black;
+    height: 250px; padding: 10px; font-size: 20px; margin-top: 10px;
+}
+.list-group-item {
+    margin-bottom: 10px;
+}
+.form-check-input {
+    float: right;
+}
+.asiide header {
+    padding: 10px; font-size: 22px; margin-top: 10px;
+}
+.date {
+    border: 2px solid black;
+    padding: 10px; font-size: 20px; margin-top: 10px;
+}
+.clearfix {
+    clear: both
+}
+.articles {
+    border: 2px solid black;
+    float: right; width: 65%; height: 550px; margin-top: 10px;
+    margin-right: 120px; margin-bottom: 100px;
+}
+.options {
+    text-decoration: none; float:right; margin-right: 5px; color: black;
+}
+.nametag {
+    padding: 10px; margin-top: 30px; margin-left: 50px; display: inline-block;
+}
+.nametag a {
+    color: rgb(37, 62, 249); text-decoration: none;
+}
+.pfp {
+    width: 45px; height: 45px; border-radius: 50%; border: 2px solid black; display: inline-block;
+    background-image: url("../images/pfp.jpg");
+    background-position: center; background-size: cover;
+}
+.nametag h2 {
+    display: inline; margin-left: 20px; font-size: 40px;
+}
+.articelp {
+    margin-left: 50px; font-size: 18px; margin-top: 20px; margin-bottom: 40px;
+    width: 90%;
+}
+.articleimg1 {
+    margin-left: 50px;
+}
+.articleimg2 {
+    margin-left: 80px;
+}
+
